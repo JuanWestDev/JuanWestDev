@@ -23,12 +23,12 @@ I'm a Junior Software Developer with a hunger for learning and growth. I'm just 
 
 <br />
 
-<div style="display: flex; align-items: center;">
+
   <svg width="100" height="100" viewBox="0 0 100 100">
   <circle r="40" cx="50" cy="50" fill="transparent" stroke="#e0e0e0" stroke-width="12px"></circle>
   <circle r="40" cx="50" cy="50" fill="transparent" stroke="#e0e0e0" stroke-width="12px"></circle>
 </svg>
-</div>
+
 
 <br />
 
