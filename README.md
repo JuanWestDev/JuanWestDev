@@ -24,10 +24,9 @@ I'm a Junior Software Developer with a hunger for learning and growth. I'm just 
 <br />
 
 <div style="display: flex; align-items: center;">
-    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <svg width="40" height="40">
-        <circle cx="20" cy="20" r="15" fill="none" stroke="#ddd" stroke-width="3"></circle>
-        <circle cx="20" cy="20" r="15" fill="none" stroke="#64dd17" stroke-width="3" stroke-dasharray="0 100"></circle>
+        <circle cx="20" cy="20" r="15" fill="red" stroke="#ddd" stroke-width="3"></circle>
+        <circle cx="20" cy="20" r="15" fill="red" stroke="#64dd17" stroke-width="3" stroke-dasharray="0 100"></circle>
     </svg>
 </div>
 
