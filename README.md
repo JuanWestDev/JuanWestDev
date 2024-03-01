@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/VideoEditor)`**
 
-I'm a Junior Software Developer with a passion for Java and a hunger for learning and growth. My journey in software development began with Java, where I've built a strong foundation and gained hands-on experience in developing robust applications. However, I'm not stopping there! I've dabbled in Python for scripting tasks, SQL for database management, and even ventured into the world of web development with HTML and JSP.As a perpetual learner, I'm constantly seeking new challenges and opportunities to expand my skills. Whether it's mastering advanced Java concepts, delving deeper into Python's versatility, or refining my understanding of database design with SQL, I'm eager to deepen my expertise and become a well-rounded developer. Currently, you'll find me honing my craft through personal projects that push my boundaries and exploring new technologies to broaden my skill set. I believe in the power of hands-on learning and am always excited to tackle new problems head-on.
+I'm a Junior Software Developer with a hunger for learning and growth. I'm just entering the space and very excited to start on some newer and more challenging projects. All projects on my page have been coded by myself from the ground up and I'm looking to improve on my skills where needed!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
