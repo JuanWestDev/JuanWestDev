@@ -15,23 +15,6 @@ I'm a Junior Software Developer with a hunger for learning and growth. I'm just 
 
 ### 🧰 Languages and Tools
 
-
-
-
-
-
-
-
-
-<div style="display: flex; align-items: center;">
-    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <svg width="40" height="40">
-        <circle cx="20" cy="20" r="15" fill="none" stroke="#ddd" stroke-width="3"></circle>
-        <circle cx="20" cy="20" r="15" fill="none" stroke="#64dd17" stroke-width="3" stroke-dasharray="0 100"></circle>
-    </svg>
-</div>
-
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
