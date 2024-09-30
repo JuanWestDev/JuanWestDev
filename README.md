@@ -2,7 +2,7 @@
 
 **`Byte Wizard (Developer/VideoEditor)`**
 
-I'm a Junior Software Developer with a hunger for learning and growth. I'm just entering the space and very excited to start on some newer and more challenging projects. All projects on my page have been coded by myself from the ground up and I'm looking to improve on my skills where needed!
+I'm a Junior Software Developer and Web Developer with a hunger for learning and growth. I'm just entering the space and very excited to start on some newer and more challenging projects. All projects on my page have been coded by myself from the ground up and I'm looking to improve on my skills where needed!
 
    <p align="left"> 
       <a href="https://github.com/JuanWestDev?tab=followers">
