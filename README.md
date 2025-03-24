@@ -2,7 +2,7 @@
 
 **`Byte Wizard (Developer/VideoEditor)`**
 
-I'm a developer that has been coding for 5 years.
+I'm a developer that has been learning code for 5 years.
 
    <p align="left"> 
       <a href="https://github.com/JuanWestDev?tab=followers">
@@ -15,7 +15,7 @@ I'm a developer that has been coding for 5 years.
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://www.svgrepo.com/svg/353925/javascript)"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
