@@ -1,8 +1,6 @@
 # 🧙‍♂️ Juan West
 
-**`Byte Wizard (Developer/VideoEditor)`**
-
-I'm a developer that has been learning code for 5 years.
+I'm a developer that has been learning code for 4 years.
 
    <p align="left"> 
       <a href="https://github.com/JuanWestDev?tab=followers">
