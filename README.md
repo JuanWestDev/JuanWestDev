@@ -2,7 +2,7 @@
 
 **`Byte Wizard (Developer/VideoEditor)`**
 
-I'm a Junior Software Developer and Web Developer with a hunger for learning and growth. I'm just entering the space and very excited to start on some newer and more challenging projects. All projects on my page have been coded by myself from the ground up and I'm looking to improve on my skills where needed!
+I'm a developer that has been coding for 5 years.
 
    <p align="left"> 
       <a href="https://github.com/JuanWestDev?tab=followers">
@@ -15,22 +15,21 @@ I'm a Junior Software Developer and Web Developer with a hunger for learning and
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://www.svgrepo.com/svg/353925/javascript)"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+
 
 <br />
 
 #
 
 <details>
- <summary><h3>👨‍💻 Juans Coding Journey</h3></summary>
-  My journey into the world of software development began with a simple question: How are games made? As an avid gamer, I was captivated by the immersive experiences offered by video games, but I yearned to understand the mechanics behind the magic. This curiosity ignited a passion for coding that has since become the driving force behind my career.
-
-Eager to turn my curiosity into expertise, I embarked on a path of learning and discovery. Enrolling in a Software Development course provided me with the tools and knowledge to explore programming languages such as Java, HTML, JSP, SQL, and Python. Despite my dreams of creating the next blockbuster game, my reality quickly shifted when I realized that my coding endeavors were more likely to produce digital ducks crossing virtual roads than epic fantasy realms.
-
-For me, coding is more than just a skill – it's a source of inspiration and fulfillment. The thrill of solving complex problems and the joy of seeing my creations come to life are what fuel my passion for software development. As I continue on this journey of growth and learning, I look forward to exploring new technologies and pushing the boundaries of what's possible with code. And who knows? Maybe one day, those digital ducks will become the stars of their own game.
+ <summary><h3>👨‍💻</h3></summary>
+ 
 
 [website]: https://fkcodes.com
 
