@@ -1,6 +1,6 @@
 # 🧙‍♂️ Juan West
 
-I'm a developer that has been learning code for 4 years.
+I'm a Software Engineer that specializes in Web Development.
 
    <p align="left"> 
       <a href="https://github.com/JuanWestDev?tab=followers">
