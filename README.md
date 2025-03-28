@@ -27,7 +27,7 @@ I'm a Software Engineer that specializes in Web Development.
 #
 
 <details>
- <summary><h3>👨‍💻</h3></summary>
+<!--  <summary><h3>👨‍💻</h3></summary> -->
  
 
 [website]: https://fkcodes.com
