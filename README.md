@@ -13,6 +13,7 @@ I'm a Software Engineer that specializes in Web Development.
 
 ### 🧰 Tech Stack
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="[https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)"/> 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Node JS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg"/>
